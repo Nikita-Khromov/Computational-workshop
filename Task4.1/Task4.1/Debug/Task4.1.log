@@ -1,0 +1,5 @@
+﻿  Task4.1.cpp
+C:\Users\hromo\Desktop\Информатика\4 sem\CompWork\Task4.1\Task4.1\Task4.1.cpp(10,14): warning C4101: res: неиспользованная локальная переменная
+C:\Users\hromo\Desktop\Информатика\4 sem\CompWork\Task4.1\Task4.1\Task4.1.cpp(45): warning C4715: f_int: значение возвращается не при всех путях выполнения
+C:\Users\hromo\Desktop\Информатика\4 sem\CompWork\Task4.1\Task4.1\Task4.1.cpp(26): warning C4715: f: значение возвращается не при всех путях выполнения
+  Task4.1.vcxproj -> C:\Users\hromo\Desktop\Информатика\4 sem\CompWork\Task4.1\Debug\Task4.1.exe
