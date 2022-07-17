@@ -1,0 +1,3 @@
+﻿  Task5.cpp
+C:\Users\hromo\Desktop\Информатика\4 sem\CompWork\Task5\Task5\Task5.cpp(75,56): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Task5.vcxproj -> C:\Users\hromo\Desktop\Информатика\4 sem\CompWork\Task5\x64\Debug\Task5.exe
